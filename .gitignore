@@ -7,3 +7,6 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+
+# Document build and visual review intermediates
+projects/*/outputs/research-proposal/_build/
